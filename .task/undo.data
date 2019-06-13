@@ -1,0 +1,21 @@
+time 1560295888
+new [description:"edX Assignment 1, Problem 1" due:"1590978600" entry:"1560295888" modified:"1560295888" status:"pending" uuid:"f43866e1-134e-4468-b039-c07a6f4b119c"]
+---
+time 1560296182
+old [description:"edX Assignment 1, Problem 1" due:"1590978600" entry:"1560295888" modified:"1560295888" status:"pending" uuid:"f43866e1-134e-4468-b039-c07a6f4b119c"]
+new [description:"edX Assignment 1, Problem 1" due:"1560997800" entry:"1560295888" modified:"1560296182" status:"pending" uuid:"f43866e1-134e-4468-b039-c07a6f4b119c"]
+---
+time 1560351733
+new [description:"edX Assignment 1, Problem 2" entry:"1560351733" modified:"1560351733" status:"pending" uuid:"24039e3e-b68d-41d4-8757-5cca4dae0ceb"]
+---
+time 1560351744
+new [description:"edX Assignment 1, Problem 3" entry:"1560351744" modified:"1560351744" status:"pending" uuid:"10e49f08-66d9-424f-8ee0-cf55f12308c7"]
+---
+time 1560360250
+old [description:"edX Assignment 1, Problem 2" entry:"1560351733" modified:"1560351733" status:"pending" uuid:"24039e3e-b68d-41d4-8757-5cca4dae0ceb"]
+new [description:"edX Assignment 1, Problem 2" due:"1560997800" entry:"1560351733" modified:"1560360250" status:"pending" uuid:"24039e3e-b68d-41d4-8757-5cca4dae0ceb"]
+---
+time 1560360274
+old [description:"edX Assignment 1, Problem 3" entry:"1560351744" modified:"1560351744" status:"pending" uuid:"10e49f08-66d9-424f-8ee0-cf55f12308c7"]
+new [description:"edX Assignment 1, Problem 3" due:"1560997800" entry:"1560351744" modified:"1560360274" status:"pending" uuid:"10e49f08-66d9-424f-8ee0-cf55f12308c7"]
+---
